@@ -1,0 +1,4 @@
+*~
+*.o
+libcasm_bf.so
+__pycache__/
