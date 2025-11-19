@@ -231,7 +231,7 @@ extern "C" {
 
 void casm_bf_test_microkernels();
 
-void casm_bf_run_timings();
+void casm_bf_run_timings(int ncu_hack);
 
 long casm_bf_get_max_beams();
 
